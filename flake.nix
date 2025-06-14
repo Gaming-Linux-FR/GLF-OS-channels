@@ -3,7 +3,7 @@
   description = "Définition des canaux stables Nixpkgs GLF-OS";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/release-25.05"; #à modifier à chaque nouvelle version
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.05"; #à modifier à chaque nouvelle version
     nixpkgs-unstable.url = "github:NixOS/nixpkgs/nixos-unstable";
   };
 
